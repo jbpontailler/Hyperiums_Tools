@@ -1,0 +1,1 @@
+start chrome.exe "http://hyp2.hyperiums.com/servlet/HAPI?game=Hyperiums11&player=LOGIN&passwd=PASSWORD&request=download&filetype=planets"

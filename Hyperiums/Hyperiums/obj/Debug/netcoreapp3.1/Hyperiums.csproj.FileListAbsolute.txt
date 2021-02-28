@@ -1,0 +1,13 @@
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\obj\Debug\netcoreapp3.1\Hyperiums.csprojAssemblyReference.cache
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\obj\Debug\netcoreapp3.1\Hyperiums.AssemblyInfoInputs.cache
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\obj\Debug\netcoreapp3.1\Hyperiums.AssemblyInfo.cs
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\obj\Debug\netcoreapp3.1\Hyperiums.csproj.CoreCompileInputs.cache
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\bin\Debug\netcoreapp3.1\Hyperiums.exe
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\bin\Debug\netcoreapp3.1\Hyperiums.deps.json
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\bin\Debug\netcoreapp3.1\Hyperiums.runtimeconfig.json
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\bin\Debug\netcoreapp3.1\Hyperiums.runtimeconfig.dev.json
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\bin\Debug\netcoreapp3.1\Hyperiums.dll
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\bin\Debug\netcoreapp3.1\Hyperiums.pdb
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\obj\Debug\netcoreapp3.1\Hyperiums.dll
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\obj\Debug\netcoreapp3.1\Hyperiums.pdb
+C:\Users\ponta\Desktop\La manu\Git\Hyperiums\Hyperiums\Hyperiums\obj\Debug\netcoreapp3.1\Hyperiums.genruntimeconfig.cache
