@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ponta\\.nuget\\packages\\": {}
+    "C:\\Users\\JB\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ponta\\Desktop\\La manu\\Git\\Hyperiums\\Hyperiums\\Hyperiums\\Hyperiums.csproj",
+      "projectUniqueName": "C:\\Users\\JB\\Desktop\\La Manu\\Git\\Hyperiums_Tools\\Hyperiums\\Hyperiums\\Hyperiums.csproj",
       "projectName": "Hyperiums",
-      "projectPath": "C:\\Users\\ponta\\Desktop\\La manu\\Git\\Hyperiums\\Hyperiums\\Hyperiums\\Hyperiums.csproj",
-      "packagesPath": "C:\\Users\\ponta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ponta\\Desktop\\La manu\\Git\\Hyperiums\\Hyperiums\\Hyperiums\\obj\\",
+      "projectPath": "C:\\Users\\JB\\Desktop\\La Manu\\Git\\Hyperiums_Tools\\Hyperiums\\Hyperiums\\Hyperiums.csproj",
+      "packagesPath": "C:\\Users\\JB\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JB\\Desktop\\La Manu\\Git\\Hyperiums_Tools\\Hyperiums\\Hyperiums\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ponta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JB\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
